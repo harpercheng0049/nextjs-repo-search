@@ -1,3 +1,10 @@
+## Introduction
+A simple GitHub repository search application built with Nextjs, using the GitHub Search API.
+
+![describe](https://github.com/harpercheng0049/nextjs-repo-search/assets/69156303/6a300e21-9622-4edc-9c6f-f81b31cd3cdc)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
